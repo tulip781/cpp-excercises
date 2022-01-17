@@ -8,7 +8,6 @@ int main(){
     while( i<=100){
         cout << i << " " << sum << endl;
         sum += i;
-
         ++i;
     };
     cout << "The sum of number from 50 to 100 is " << sum << endl;

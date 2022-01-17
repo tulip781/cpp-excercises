@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-
     int n1, n2;
     cout << "Please enter two numbers to print range" << endl; 
     cout << "Enter first number" << endl; 
